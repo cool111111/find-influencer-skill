@@ -107,6 +107,3 @@ pip install openai-whisper
 ## License
 
 MIT — 觉得有用就 **star 一下** ⭐
-
----
-
