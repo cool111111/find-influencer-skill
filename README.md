@@ -110,12 +110,3 @@ MIT — 觉得有用就 **star 一下** ⭐
 
 ---
 
-<details>
-<summary>📷 怎么贴 demo 图/GIF？</summary>
-
-1. 在 GitHub 网页打开这个 README，点编辑
-2. **直接把图片或 GIF 拖到编辑框**，GitHub 自动上传
-3. 把生成的标记剪切到上面 `<!-- TODO -->` 那一行
-4. 保存
-
-</details>
