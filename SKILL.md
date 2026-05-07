@@ -18,8 +18,8 @@ ARGUMENTS: User's initial request (platform, content direction, etc.)
 Use AskUserQuestion to collect:
 
 1. **Target Platform(s)**: Xiaohongshu / Douyin / Bilibili / YouTube / TikTok / X(Twitter) / Instagram / multiple
-2. **Product/Brand**: What product or brand is this collaboration for? e.g., OpenClaw, 海螺AI, MiniMax
-3. **Content Direction**: The specific topic AND broader category. e.g., "OpenClaw (broader: AI agent, AI工具)"
+2. **Product/Brand**: What product or brand is this collaboration for? e.g., ChatGPT, Claude, Gemini
+3. **Content Direction**: The specific topic AND broader category. e.g., "ProductX (broader: AI agent, AI工具)"
 4. **Collaboration Goal**: What kind of content do you want the creator to produce? e.g., 产品测评, 教程, 创意展示
 5. **Tone Preference**: What style fits the brand? e.g., 专业但不枯燥, 轻松科普, 极客硬核, 创意炫酷
 6. **Follower Range**: default 5,000 - 500,000 (soft reference, not hard cutoff -- great recent data can override low followers)
@@ -49,7 +49,7 @@ Don't just search the exact product name -- use a 3-layer keyword strategy to fi
 
 **Layer 1: Exact product/brand keywords** (find creators already covering your product)
 - Direct product name and variations
-- Example for OpenClaw: "OpenClaw", "openclaw教程", "openclaw测评"
+- Example for ProductX: "ProductX", "productx教程", "productx测评"
 
 **Layer 2: Competitor & category keywords** (find creators in the same space)
 - Competitor product names from Phase 1
